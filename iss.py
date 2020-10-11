@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'Erica best purplecoder04'
+__author__ = 'Erica best purplecoder04 and studyhall'
 
 import requests
 import turtle
